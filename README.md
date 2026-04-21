@@ -6,7 +6,7 @@
 
 # 如何使用
 
-(1) （我使用的是Debian13.2+）通过APT包管理器安装两个软件包`rsync` 和 `git`。
+(1) （我使用的是Debian13.2）通过APT包管理器安装两个软件包`rsync` 和 `git`。
 
 ```bash
 apt install -y rsync git
